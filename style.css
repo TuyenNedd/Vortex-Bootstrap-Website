@@ -181,7 +181,7 @@ Home
 =============================*/
 #home{
     height: 100vh;
-    background-image: url(/Images/Home-BG.jpg);
+    background-image: url(Images/Home-BG.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -232,7 +232,7 @@ About
 Achievements
 =============================*/
 #achievements{
-    background-image: url(/Images/Acheivements-img.jpg);
+    background-image: url(Images/Acheivements-img.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -348,7 +348,7 @@ Pricing
 Testimonials
 =============================*/
 #testimonials{
-    background-image: url(/Images/Review-Bg-img.jpg);
+    background-image: url(Images/Review-Bg-img.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
